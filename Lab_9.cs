@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-        string plainText = "Hello it s Aymen";
+        string plainText = "Krimski mist 200";
 
         using (Aes aes = Aes.Create())
         {
